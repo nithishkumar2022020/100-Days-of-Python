@@ -1,0 +1,22 @@
+# Day 13: Debugging in Python
+
+Welcome to Day 13 of the #100DaysOfPython challenge! Today’s focus was on learning and practicing essential debugging skills in Python.
+
+## Overview
+Debugging is a crucial part of the coding process, and mastering it can significantly improve both the quality and reliability of your code. Today, I explored various techniques and tools to efficiently trace and fix bugs.
+
+## Key Learning Points:
+- **Common Error Types**: Identifying syntax errors, runtime errors, and logical errors.
+- **Debugging Tools**:
+  - Using `print()` statements to inspect variables and logic flow.
+  - Leveraging Python’s built-in `pdb` module to set breakpoints and step through code.
+- **Systematic Approach**:
+  - Techniques to isolate problematic code and apply fixes iteratively.
+
+## Why Debugging Matters
+Efficient debugging not only enhances problem-solving skills but also boosts code comprehension and helps prevent future issues.
+
+## Try it Yourself
+I’ve included some examples and exercises I worked on to practice debugging. Feel free to check them out and try solving the bugs yourself!
+
+
